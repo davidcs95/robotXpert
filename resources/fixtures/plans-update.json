@@ -1,0 +1,12 @@
+{
+    "before": {
+        "title": "Projeto verão",
+        "duration": 8,
+        "price": 79.90
+    },
+    "after": {
+        "title": "Projeto quarentena",
+        "duration": 24,
+        "price": 0.01
+    }
+}

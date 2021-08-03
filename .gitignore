@@ -3,3 +3,4 @@ logs/*.html
 logs/*.xml
 logs/*.png
 logs/*.txt
+*.png
